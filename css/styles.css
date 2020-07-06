@@ -158,6 +158,11 @@ p{
 }
 
 @media (max-width: 1050px){
+
+  body{
+    font-size: 200%;
+  }
+  
   .carro-por{
     transform: rotate(0deg);
     position: static;
