@@ -172,6 +172,10 @@ p{
     position: static;
   }
 
+  .hamburger{
+    width: 3.5rem;
+    height: 3.5rem;
+  }
   .logo{
     font-size: 3.5rem;
   }
