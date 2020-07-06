@@ -67,7 +67,6 @@ p{
 
 .gris{
     color: #8f8f8f;
-    font-family: 'Montserrat', sans-serif;
 }
 
 .img-ft{
@@ -102,7 +101,6 @@ p{
 
 .nav-link{
   font-size: 1.2rem;
-  font-family: 'Montserrat', sans-serif;
 }
 
 .press-img{
@@ -129,14 +127,12 @@ p{
 .titulo{
   font-size: 3.5rem;
   line-height: 1.5;
-  font-family: 'Montserrat', sans-serif;
   color: white;
 }
 
 #cta{
   text-align: center;
   background-color: #5fdde5;
-  font-family: 'Montserrat', sans-serif;
   color : white;
   padding: 3% 15%;
 
@@ -145,7 +141,6 @@ p{
 #footer{
   padding: 3% 15%;
   text-align: center;
-  font-family: 'Montserrat', sans-serif;
 }
 #title{
   background-color: #05dfd7;
@@ -161,6 +156,14 @@ p{
 
   body{
     font-size: 250%;
+  }
+
+  h3{
+      font-size: 250%;
+  }
+
+  p{
+      font-size: 250%;
   }
 
   .carro-por{
